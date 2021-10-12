@@ -2,7 +2,7 @@ torch==1.5.1
 gym==0.10.8
 tensorflow==1.15.0
 atari-py==0.1.7
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 scikit-image==0.14.2
 tqdm==4.31.1
 pandas==0.24.1
